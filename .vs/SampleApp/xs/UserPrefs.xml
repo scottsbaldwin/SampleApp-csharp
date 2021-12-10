@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{66F94D00-DD17-41C9-B652-C4C4BE2F1EED}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CLI/WeatherService.cs">
+    <Files>
+      <File FileName="CLI/Program.cs" Line="18" Column="18" />
+      <File FileName="CLI/LocationWeather.cs" Line="1" Column="1" />
+      <File FileName="CLI/WeatherService.cs" Line="11" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SampleApp" expanded="True">
+            <Node name="CLI" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="WeatherService.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CLI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
